@@ -8,6 +8,7 @@ We are in the summer of 2018. Yes, COVID-19 still does not exist, Donald Trump i
 2. Are orders delivered on time?
 
 Schema of the database:
+
 ![image](https://github.com/user-attachments/assets/00e4f7d0-bc83-4a00-8f73-0bb15b448d74)
 
 ## Languages and Libraries Used
