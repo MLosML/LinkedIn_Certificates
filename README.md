@@ -6,7 +6,9 @@ We are in the summer of 2018. Yes, COVID-19 still does not exist, Donald Trump i
 
 1. Is Magist a good fit for high-end tech products?
 2. Are orders delivered on time?
-   
+
+![image](https://github.com/user-attachments/assets/00e4f7d0-bc83-4a00-8f73-0bb15b448d74)
+
 ## Languages and Libraries Used
 SQL and Tableau
 
